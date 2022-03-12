@@ -1,4 +1,4 @@
-# Server Mappings
+# Server
 
 ## Summary
 
